@@ -45,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/fangzganz?igshid=YmMyMTA2M2Y='
-global.sgh = 'https://github.com/Fangzbotz2007'
-global.sgc = 'https://chat.whatsapp.com/HpxyS6b45SoGIKG7LHddiM'
+global.sig = 'https://instagram.com/imleviofc?igshid=YmMyMTA2M2Y='
+global.sgh = 'https://github.com/ImleviOfc'
+global.sgc = 'https://chat.whatsapp.com/CElgl37YTIJKzugfUYIwX6'
 global.sdc = 'https://s.id/Fangzganz'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '088215689772'
-global.povo = '088215689772'
-global.pgopay = '088215689772'
-global.ppulsa = '088215689772'
-global.ppulsa2 = '0895394988123'
+global.pdana = '085172446692'
+global.povo = '085172446692'
+global.pgopay = '085172446692'
+global.ppulsa = '085172446692'
+global.ppulsa2 = '085172446692'
 global.psaweria = 'https://saweria.co/FangzBot'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895394988123'
-global.nomorown = '6288215689772'
+global.nomorbot = '6282131369002'
+global.nomorown = '6285172446692'
 global.namebot = ' 「 FANGZ BOT ⁩㊣ 」'
-global.nameown = 'Fangz Ganz'
+global.nameown = 'levi'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6288215689772'],
-  ['62895336282144'],
-  ['6288215689772'],
-  ['6288215689772', 'Fangz Ganz', true]
+  ['6285172446692'],
+  ['6285172446692'],
+  ['6285172446692'],
+  ['6285172446692', 'levi', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
