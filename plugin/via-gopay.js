@@ -5,8 +5,8 @@ Hay👋, ingin melanjutkan pembayaran?
 
 💰 *Pembayaran*
 • Via: Gopay
-• Nomor: 088215689772
-• A/n: Fangz
+• Nomor: 085172446692
+• A/n: levi
 • Mitra: Fangz BOT
 • Metode pembayaran: Online ( ~Cod~ )
 
